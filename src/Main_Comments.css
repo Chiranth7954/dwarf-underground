@@ -1,0 +1,28 @@
+.comments {
+  margin-top: 15px;
+}
+
+.button {
+  display: inline-block;
+  background-color: #CFB53B;
+  font-weight: 700;
+  color: white;
+  width: 12em;
+  margin-right: 20px;
+}
+
+.button:hover {
+  background-color: #E9CF55;
+  color: white;
+}
+
+.button:hover i {
+  background-color: #CFB53B;
+}
+
+.button i {
+  display: inline-block;
+  background-color: #B69C22;
+  line-height: 2em;
+  padding: 0 .6em;
+}
