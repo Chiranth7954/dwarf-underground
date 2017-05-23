@@ -16,9 +16,7 @@ class Main extends Component {
           <Main_Article />
           <Main_Links />
         </div>
-        <aside className="large-4 medium-12 columns">
-          <Main_Ad />
-        </aside>
+        <Main_Ad />
         <Main_OtherArticles />
       </main>
     )
